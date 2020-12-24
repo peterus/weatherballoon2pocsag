@@ -1,3 +1,2 @@
 aprslib
-sqlite3
 geopy
